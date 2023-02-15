@@ -11,15 +11,10 @@ To keep the points they've accumulated on a turn, a player can choose to "hold",
 How to Play
 To play the Pig Game, simply open the index.html file in your web browser. The game will load automatically, and you will be prompted to enter the names of the two players. Once you have done so, click the "New Game" button to start a new game.
 
-On each turn, the active player will be highlighted in yellow. To roll the die, simply click the "Roll" button. The result of the roll will be displayed, and if the player rolled a 1, their turn will end automatically. Otherwise, the player can choose to roll again, or to hold their current score by clicking the "Hold" button.
+On each turn, the active player will be highlighted in bright Color side. To roll the die, simply click the "Roll" button. The result of the roll will be displayed, and if the player rolled a 1, their turn will end automatically. Otherwise, the player can choose to roll again, or to hold their current score by clicking the "Hold" button.
 
 The first player to reach a score of 100 wins the game. To start a new game, simply click the "New Game" button again.
 
 Technologies Used
 This implementation of the Pig Game was created using HTML, CSS, and JavaScript. No external libraries or frameworks were used.
 
-Contributions
-Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please see the CONTRIBUTING.md file for more information on how to contribute to this project.
-
-License
-This project is licensed under the MIT License. Please see the LICENSE file for more information.
